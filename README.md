@@ -1,0 +1,2 @@
+# javaprime
+Prime num
